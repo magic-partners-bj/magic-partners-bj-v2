@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magic-partners.bj/sitemap.xml
